@@ -1,7 +1,9 @@
 <template>
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light">
-      <a class="navbar-brand" href="/">秋夏</a>
+      <router-link class="navbar-brand" to="/"
+            >秋夏</router-link
+          >
       <button
         class="navbar-toggler"
         type="button"
