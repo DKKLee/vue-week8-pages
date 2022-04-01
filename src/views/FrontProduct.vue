@@ -126,7 +126,7 @@
         </div>
       </div>
     </div>
-    <div class="row my-5">
+    <!-- <div class="row my-5">
       <div class="col-md-4">
         <p>
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
@@ -140,7 +140,7 @@
           nonumy eirmod tempor
         </p>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 

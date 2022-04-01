@@ -34,11 +34,10 @@
             alt="..."
           />
           <div class="card-body text-center">
-            <h4>Lorem ipsum</h4>
+            <h4>神秘大自然</h4>
             <div class="d-flex justify-content-between">
               <p class="card-text text-muted mb-0">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                diam nonumy eirmod.
+                享受一早的美景，被太陽曬醒，大自然聲音喚醒
               </p>
             </div>
           </div>
@@ -52,11 +51,10 @@
             alt="..."
           />
           <div class="card-body text-center">
-            <h4>Lorem ipsum</h4>
+            <h4>夜晚星空</h4>
             <div class="d-flex justify-content-between">
               <p class="card-text text-muted mb-0">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                diam nonumy eirmod.
+               沉靜在夜晚星空，吹著舒服的風，享受最愜意的時光
               </p>
             </div>
           </div>
@@ -70,11 +68,10 @@
             alt="..."
           />
           <div class="card-body text-center">
-            <h4>Lorem ipsum</h4>
+            <h4>戶外裝備</h4>
             <div class="d-flex justify-content-between">
               <p class="card-text text-muted mb-0">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                diam nonumy eirmod.
+                在外靠朋友，戶外靠裝備，出發前除了體力外，裝備是不可或缺的，裝備要先贏在起跑點
               </p>
             </div>
           </div>
@@ -93,61 +90,15 @@
           <div class="carousel-item active">
             <div class="row justify-content-center py-7">
               <div class="col-md-6 text-center">
-                <h3>Lorem ipsum.</h3>
+                <h3>秋夏 等你來訪</h3>
                 <p class="my-5">
-                  “Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                  diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                  aliquyam erat.”
+                  喜歡戶外的朋友都可以來交流，登山、下海都可以，一句話一輩子，週末兩天一下子。
                 </p>
-                <p><small>—Lorem ipsum dolor sit amet.—</small></p>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="row justify-content-center py-7">
-              <div class="col-md-6 text-center">
-                <h3>Lorem ipsum.</h3>
-                <p class="my-5">
-                  “Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                  diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                  aliquyam erat.”
-                </p>
-                <p><small>—Lorem ipsum dolor sit amet.—</small></p>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="row justify-content-center py-7">
-              <div class="col-md-6 text-center">
-                <h3>Lorem ipsum.</h3>
-                <p class="my-5">
-                  “Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                  diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                  aliquyam erat.”
-                </p>
-                <p><small>—Lorem ipsum dolor sit amet.—</small></p>
+                <p><small>—Don’t look forward to tomorrow, don’t miss yesterday, to grasp today.—</small></p>
               </div>
             </div>
           </div>
         </div>
-        <a
-          class="carousel-control-prev"
-          href="#carouselExampleControls"
-          role="button"
-          data-slide="prev"
-        >
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a
-          class="carousel-control-next"
-          href="#carouselExampleControls"
-          role="button"
-          data-slide="next"
-        >
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
       </div>
     </div>
   </div>
@@ -161,10 +112,9 @@
         />
       </div>
       <div class="col-md-4 m-auto text-center">
-        <h4 class="mt-4">Lorem ipsum</h4>
+        <h4 class="mt-4">海上活動</h4>
         <p class="text-muted">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          nonumy eirmod tempor invidunt ut labore et dolore magna.
+          海上活動勢必能夠左右未來。這種事實對本人來說意義重大，相信對這個世界也是有一定意義的。
         </p>
       </div>
     </div>
@@ -177,16 +127,15 @@
         />
       </div>
       <div class="col-md-4 m-auto text-center">
-        <h4 class="mt-4">Lorem ipsum</h4>
+        <h4 class="mt-4">山上活動</h4>
         <p class="text-muted">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          nonumy eirmod tempor invidunt ut labore et dolore magna.
+           一般來說，從這個角度來看，探討山上活動時，如果發現非常複雜，那麼想必不簡單。
         </p>
       </div>
     </div>
   </div>
   <div class="bg-light py-4">
-    <div class="container">
+    <!-- <div class="container">
       <div
         class="d-flex flex-column flex-md-row justify-content-between align-items-md-center align-items-start"
       >
@@ -201,14 +150,14 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
   <div class="bg-dark py-5">
     <div class="container">
       <div
         class="d-flex align-items-center justify-content-between text-white mb-md-7 mb-4"
       >
-        <a class="text-white h4" href="/">LOGO</a>
+        <a class="text-white h4" href="#/">DDDDK</a>
         <ul class="d-flex list-unstyled mb-0 h4">
           <li>
             <a href="#" class="text-white mx-3"
@@ -232,7 +181,7 @@
           <p class="mb-0">02-6666-0000</p>
           <p class="mb-0">service@xxx.com</p>
         </div>
-        <p class="mb-0">© 2020 LOGO All Rights Reserved.</p>
+        <p class="mb-0">© 2022 DDDDK.</p>
       </div>
     </div>
   </div>
